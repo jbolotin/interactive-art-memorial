@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+
+}
+
+.holocaust-art-photos-div {
+  padding-top: 50px;
+  width: 100%;
+  height: 85%;
+  text-align: center;
+}
+
+.holocaust-art-photos-container {
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  font-size: 0px;
+}
+
+.holocaust-art-photos-circle {
+  font-size: 0px;
+  border-radius: 50%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  display: inline-block;
+  padding-top: none;
+  padding-bottom: none;
+  margin-top: none;
+  margin-bottom: none;
+}
+
+#holocaust-art-photos-name {
+  text-align: center;
+  padding: 0;
+  margin: -30px;
+  color: white;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 40px;
+}
