@@ -6,3 +6,9 @@ Simply download files and start with "npm start"
 
 # To interact
 Hover over circles to see what happens.
+
+
+
+
+# Further information
+Julian Debiec was born in Krakow on January 30, 1919. He arrived at Auschwitz on January 10, 1941 and died on June 10, 1942. He was twenty-three years old. 
